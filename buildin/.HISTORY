@@ -1,8 +1,0 @@
-./minishell
-pwd
-cd ..
-./minishell
-pwd
-cd ..
-./minishell
-echo $?
